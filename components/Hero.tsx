@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { ChevronDown } from 'lucide-react';
 
 const Hero: React.FC = () => {
-  const quote = "Words are our most inexhaustible source of magic.";
+  const quote = "NIT Agartala Literary Club";
   
   // Split quote into characters for staggering
   const letterVariants = {
@@ -58,7 +58,7 @@ const Hero: React.FC = () => {
            transition={{ delay: 3, duration: 1 }}
            className="font-sans text-sm md:text-lg text-gray-300 tracking-wide max-w-xl mx-auto"
         >
-           Where classical thought meets the digital horizon. Join the collective.
+           Words are truly source of magic.
         </motion.p>
       </div>
 

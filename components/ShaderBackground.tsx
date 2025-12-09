@@ -37,7 +37,7 @@ const ShaderBackground: React.FC = () => {
         colorFront="#ffffff"
         colorMid="#47a6ff"
         colorBack="#000000"
-        brightness={0.26}
+        brightness={0.20}
         contrast={0.31}
         speed={1.26}
         scale={0.8}
